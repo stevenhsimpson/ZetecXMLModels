@@ -1,0 +1,4 @@
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\bin\Release\ZetecXMLModels.dll
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\bin\Release\ZetecXMLModels.pdb
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\obj\Release\ZetecXMLModels.dll
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\obj\Release\ZetecXMLModels.pdb

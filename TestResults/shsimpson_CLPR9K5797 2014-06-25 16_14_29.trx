@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="aa1b7f18-dc7f-41ae-aa0b-0b8a76cf1cbb" name="shsimpson@CLPR9K5797 2014-06-25 16:14:29" runUser="BWES\shsimpson" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c8ac5721-ddb3-4dfb-8f66-2f5de01df2a9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="shsimpson_CLPR9K5797 2014-06-25 16_14_29">
+      <DeploymentItem filename="ZetecXMLModelsUnitTests\BGA-33110-SG.xml" />
+      <DeploymentItem filename="C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\bin\Debug\ZetecXMLModels.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-25T16:14:29.6472532-04:00" queuing="2014-06-25T16:14:30.1232532-04:00" start="2014-06-25T16:14:30.1332532-04:00" finish="2014-06-25T16:14:31.4262532-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="52" executed="52" passed="24" error="0" failed="28" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <DebugTrace>4210
+Misc Options
+-------------
+#2519fa: Text Color:		
+#14a80a: Grid Color:		
+#871199: Group Outline Color:		
+#090947: BG Color:		
+#ffffff: FG Color:		
+10: Grid Scale:		
+12: Symbol Size:		
+18.76: Pixels per Inch:	
+</DebugTrace>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="YDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="8f58cb54-4ad6-c1b3-da03-dbae73442545">
+      <Execution id="f8a63517-3979-4712-9897-e71d1a0142de" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="YDesignationTest" />
+    </UnitTest>
+    <UnitTest name="group_outline_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="4ca59c4a-1586-4df3-4c18-8aad9b220064">
+      <Execution id="d82877a0-f1bf-47a9-88c4-4d1c0e81ef2e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="group_outline_colorTest" />
+    </UnitTest>
+    <UnitTest name="YLabelTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="f46dde03-01d9-ecfa-51fc-3b81caa02ca8">
+      <Execution id="50c7768b-73b0-40d4-92ea-b22ea8d98c9a" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="YLabelTest" />
+    </UnitTest>
+    <UnitTest name="GridXTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="02a94f3f-28bb-d371-d770-2b28d3740a73">
+      <Execution id="84150274-b9e1-4e26-ab29-fc84c94bb673" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GridXTest" />
+    </UnitTest>
+    <UnitTest name="GridYTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="0a0c6ae0-e8e4-d050-e17f-dc3dfadf4a27">
+      <Execution id="ec95ead5-3fa0-4e2e-8284-24eb74cda05b" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GridYTest" />
+    </UnitTest>
+    <UnitTest name="BowlRadiusTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="f722bce2-18b8-5d04-bf89-e49deb2d591b">
+      <Execution id="87d385c9-d145-4a71-86e6-89c60bd93340" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BowlRadiusTest" />
+    </UnitTest>
+    <UnitTest name="PlantNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="10b01f1c-7c65-5527-c45d-c3020c2cdb4d">
+      <Execution id="39b030e4-3dc7-40ec-b437-6436c4df1ba5" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlantNameTest" />
+    </UnitTest>
+    <UnitTest name="IDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="36391e30-c188-1acc-8ecc-1e01672d00a5">
+      <Execution id="b2e8bd99-2359-4c23-b3f2-f73a16ec75ad" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IDTest" />
+    </UnitTest>
+    <UnitTest name="miscConstructorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="77c02662-9d79-5d8c-2ce3-01f820b23fd3">
+      <Execution id="c0d5f3f5-de7c-430f-a94e-0e8b37176c56" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="miscConstructorTest" />
+    </UnitTest>
+    <UnitTest name="OutletCalNumberingTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="85be2481-f02f-6177-a926-23d7d1e77482">
+      <Execution id="a0136908-202d-4f7c-a6a1-58cff27cb648" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletCalNumberingTest" />
+    </UnitTest>
+    <UnitTest name="InletVesselIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="26a6f9cf-ce57-ec6e-485b-7271debaf27e">
+      <Execution id="55d26dd4-ae0b-4310-91ca-358c00decf5f" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletVesselIDTest" />
+    </UnitTest>
+    <UnitTest name="background_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="e20639a1-e3ac-5227-0fa6-529036098c15">
+      <Execution id="f43bec41-a0ea-4a44-b493-09d936a08634" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="background_colorTest" />
+    </UnitTest>
+    <UnitTest name="XDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="13b8ffb4-6016-64ca-e887-e1f08ede3f60">
+      <Execution id="30f6f5e8-5115-434b-b511-25d03df58132" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XDesignationTest" />
+    </UnitTest>
+    <UnitTest name="text_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="fdeca077-1731-5789-f6c7-97ee935d2199">
+      <Execution id="897f6483-96ad-4f10-8131-b052edecc7a4" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="text_colorTest" />
+    </UnitTest>
+    <UnitTest name="grid_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ce4ae171-8b1c-e94a-6046-f6f7f8e80412">
+      <Execution id="9b59cbac-86b7-4784-953d-30701616bfef" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="grid_colorTest" />
+    </UnitTest>
+    <UnitTest name="SectionsActiveTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="07c79d70-2d05-ff4d-f6cd-1f5ea09a59d1">
+      <Execution id="efebd2b1-2794-4c20-9135-24ca45c7ecaf" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SectionsActiveTest" />
+    </UnitTest>
+    <UnitTest name="XLabelTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="88625e9d-086d-6f95-871a-ba00a3118136">
+      <Execution id="aac2d55a-f4c6-4cc8-adc5-fa1b5f91c3db" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XLabelTest" />
+    </UnitTest>
+    <UnitTest name="OutletDisplaySymbolIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="1d65620a-b474-a27f-19c2-672761107b81">
+      <Execution id="b972f464-6601-44a5-a363-2a69ac83a26c" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletDisplaySymbolIDTest" />
+    </UnitTest>
+    <UnitTest name="OutletVesselIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="de393f97-7194-a95f-30b4-c65d3ce26f75">
+      <Execution id="e1b4ab1c-7b00-4387-99bc-d9efc896e2d4" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletVesselIDTest" />
+    </UnitTest>
+    <UnitTest name="UnitTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="86b705c7-9972-2979-5c9c-3e03d4230724">
+      <Execution id="67fa0fa7-e16e-4a2f-8966-58232f315e41" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnitTest" />
+    </UnitTest>
+    <UnitTest name="IntletDisplaySymbolIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="a1a16247-5410-d687-ca1d-14a49f040f67">
+      <Execution id="a6fc582f-df94-44ef-9c9b-24955fddb2e5" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IntletDisplaySymbolIDTest" />
+    </UnitTest>
+    <UnitTest name="ModelNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="1b30e23d-b371-e559-363a-b5d56ede01ff">
+      <Execution id="7c97b4c1-9691-4102-a20c-33cc5f041c22" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ModelNameTest" />
+    </UnitTest>
+    <UnitTest name="ComponentNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="5092a366-4896-a1d3-4b30-9505f776942e">
+      <Execution id="f16de9ed-ac3f-416d-a515-07190108d7d3" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ComponentNameTest" />
+    </UnitTest>
+    <UnitTest name="InletCalNumberingTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="995bd025-5efd-2416-d859-789130a1bdb4">
+      <Execution id="563653a1-fc5a-419b-8e47-c9693c73fcce" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletCalNumberingTest" />
+    </UnitTest>
+    <UnitTest name="MinimumTubeRadiusTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ce9085de-45bf-256a-44f0-6cd789b25d2f">
+      <Execution id="4f019c5b-db29-49df-b3e9-7b2b7632a196" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MinimumTubeRadiusTest" />
+    </UnitTest>
+    <UnitTest name="OutletYTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="8792450d-bd76-961c-f757-852e8d4d4052">
+      <Execution id="ba08f677-586a-4c92-a68f-5bc8a4ae992e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletYTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="fd010e4f-ec11-356d-71a2-987599af96ee">
+      <Execution id="b47f4f26-ac7d-46b5-bfa1-3c2e5d742988" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="VesselTypeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="12766973-1377-5200-80b8-b3f3d230dccd">
+      <Execution id="38897ea6-2678-4554-94f4-03dc04672b79" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VesselTypeTest" />
+    </UnitTest>
+    <UnitTest name="VesselInformationConstructorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="7e4cf5a5-5b1c-0932-8559-35accf7c452d">
+      <Execution id="657297f6-1aa4-4404-aa1a-07fdbf1a2001" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VesselInformationConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ComponentDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="18c0df62-9e71-531f-0839-9641f985ce05">
+      <Execution id="0550eedc-1bab-4d6f-8030-b6c5615e3a30" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ComponentDesignationTest" />
+    </UnitTest>
+    <UnitTest name="ContractorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="498975fa-28ac-56ea-c148-0d358a0c6927">
+      <Execution id="1c38dbdd-10be-44ba-9d60-807c0f7d952b" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ContractorTest" />
+    </UnitTest>
+    <UnitTest name="TubeSheetNumberingTypeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="342ab28b-1731-c3f9-fc28-a2a8f9e95cf9">
+      <Execution id="b6f7782e-5d58-4dc5-a3b6-9e02b8da002e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TubeSheetNumberingTypeTest" />
+    </UnitTest>
+    <UnitTest name="PlantDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="4947f739-deb8-db54-29ad-f143de8956b0">
+      <Execution id="35152807-72b8-44cc-804f-f5ad4b1a4b40" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlantDesignationTest" />
+    </UnitTest>
+    <UnitTest name="MaterialIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="f06db92a-baa1-e523-c30b-12ff004e6373">
+      <Execution id="30c957f3-1030-4733-bb6e-cfb8a62b57e0" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MaterialIDTest" />
+    </UnitTest>
+    <UnitTest name="SectionDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="da63952a-891e-c736-3ada-6df53f00898a">
+      <Execution id="dcec435a-2cb9-45fe-b5de-58e7583ccc7c" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SectionDesignationTest" />
+    </UnitTest>
+    <UnitTest name="InletXTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ad85d900-8b15-e0db-270b-0fe6dc68b1e5">
+      <Execution id="0a35aad6-4a37-45d6-af1e-bd176b60b3a7" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletXTest" />
+    </UnitTest>
+    <UnitTest name="OutletXTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="57b9104c-3dd5-7ab0-0ce0-fa1c988b04b4">
+      <Execution id="f9910c0d-1ea5-41a6-9c56-467aec54ecbb" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletXTest" />
+    </UnitTest>
+    <UnitTest name="ModelDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b2057306-c5e9-1add-e7f7-af5dd9b426ff">
+      <Execution id="1c0c2960-47ed-48ff-b98e-b9fdbf2b5a8e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ModelDesignationTest" />
+    </UnitTest>
+    <UnitTest name="UtilityNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="e01e71af-91f5-cd9d-b9a2-e433f623a001">
+      <Execution id="4239f995-e165-4c38-bb88-2195f468c55f" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UtilityNameTest" />
+    </UnitTest>
+    <UnitTest name="InletChannelHeadTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b169d9f8-48e9-c1ab-f1d0-4527e9150cd3">
+      <Execution id="9f837b23-05f5-48ea-bde5-9668e2231273" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletChannelHeadTest" />
+    </UnitTest>
+    <UnitTest name="LegacyIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="6c794108-9512-4cfe-399f-069beac41e67">
+      <Execution id="9d67553b-8471-41b7-a0f2-1d1bd695f2c9" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LegacyIDTest" />
+    </UnitTest>
+    <UnitTest name="pixels_per_inchTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="080dedd9-abb0-bcd2-c12e-30f24dd9e2de">
+      <Execution id="9ef764fb-27e4-4b13-b27d-c4b4a90e2f99" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="pixels_per_inchTest" />
+    </UnitTest>
+    <UnitTest name="InletYTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="c3da0222-7ce6-132e-b376-ad5fdce6bbe7">
+      <Execution id="1064270e-1d99-4de9-b4db-77472bb9d30a" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletYTest" />
+    </UnitTest>
+    <UnitTest name="SectionLabelTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b6b9b077-2616-106e-0759-3bac9fb0a311">
+      <Execution id="b1efb783-bdbc-4f9c-90a8-cbed1e75a135" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SectionLabelTest" />
+    </UnitTest>
+    <UnitTest name="TubeConstructorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="a5c962c3-516d-a59e-ac49-d473361634e5">
+      <Execution id="a8447e38-7433-451e-8542-e5d6c82be1c2" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TubeConstructorTest" />
+    </UnitTest>
+    <UnitTest name="YxXyNotationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b2c71200-05d2-c464-d78a-06f6f0f9cb57">
+      <Execution id="aa2431f2-fc1d-4c24-be8f-032579a288ec" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="YxXyNotationTest" />
+    </UnitTest>
+    <UnitTest name="VesselIDTypeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="3107f13f-9a0f-48e7-6fc7-b5c5137b212e">
+      <Execution id="08009025-a5e2-4da8-9bce-66f5d8f0c4ec" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VesselIDTypeTest" />
+    </UnitTest>
+    <UnitTest name="grid_scaleTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="7937e4e8-872d-6b6c-9b61-34f1e84fe2dd">
+      <Execution id="db42cceb-7754-4427-a8b8-dab7fb4ac0be" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="grid_scaleTest" />
+    </UnitTest>
+    <UnitTest name="symbol_sizeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ecc15bfd-60f9-5125-4547-4de1352adeee">
+      <Execution id="24028eba-5001-401a-b8cf-85108ac66e4b" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="symbol_sizeTest" />
+    </UnitTest>
+    <UnitTest name="foreground_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="983e7fff-d653-565a-d54b-a93994949ed4">
+      <Execution id="32184fba-3ac7-4928-a422-e8b8212c73ec" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="foreground_colorTest" />
+    </UnitTest>
+    <UnitTest name="InletRow1Col1LocationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="1dd43818-7534-8c8a-155f-265c089bf3fe">
+      <Execution id="b77ffc22-ff35-46a5-8f16-9321b1f0a4c5" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletRow1Col1LocationTest" />
+    </UnitTest>
+    <UnitTest name="UtilityDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="490fa47e-be49-c7f7-e688-1f808e7fcaaa">
+      <Execution id="584eaf5e-42c6-4f35-8999-a02eaa1bf602" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UtilityDesignationTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02a94f3f-28bb-d371-d770-2b28d3740a73" executionId="84150274-b9e1-4e26-ab29-fc84c94bb673" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07c79d70-2d05-ff4d-f6cd-1f5ea09a59d1" executionId="efebd2b1-2794-4c20-9135-24ca45c7ecaf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="080dedd9-abb0-bcd2-c12e-30f24dd9e2de" executionId="9ef764fb-27e4-4b13-b27d-c4b4a90e2f99" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0a0c6ae0-e8e4-d050-e17f-dc3dfadf4a27" executionId="ec95ead5-3fa0-4e2e-8284-24eb74cda05b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10b01f1c-7c65-5527-c45d-c3020c2cdb4d" executionId="39b030e4-3dc7-40ec-b437-6436c4df1ba5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12766973-1377-5200-80b8-b3f3d230dccd" executionId="38897ea6-2678-4554-94f4-03dc04672b79" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="13b8ffb4-6016-64ca-e887-e1f08ede3f60" executionId="30f6f5e8-5115-434b-b511-25d03df58132" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18c0df62-9e71-531f-0839-9641f985ce05" executionId="0550eedc-1bab-4d6f-8030-b6c5615e3a30" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b30e23d-b371-e559-363a-b5d56ede01ff" executionId="7c97b4c1-9691-4102-a20c-33cc5f041c22" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1d65620a-b474-a27f-19c2-672761107b81" executionId="b972f464-6601-44a5-a363-2a69ac83a26c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1dd43818-7534-8c8a-155f-265c089bf3fe" executionId="b77ffc22-ff35-46a5-8f16-9321b1f0a4c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26a6f9cf-ce57-ec6e-485b-7271debaf27e" executionId="55d26dd4-ae0b-4310-91ca-358c00decf5f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3107f13f-9a0f-48e7-6fc7-b5c5137b212e" executionId="08009025-a5e2-4da8-9bce-66f5d8f0c4ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="342ab28b-1731-c3f9-fc28-a2a8f9e95cf9" executionId="b6f7782e-5d58-4dc5-a3b6-9e02b8da002e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36391e30-c188-1acc-8ecc-1e01672d00a5" executionId="b2e8bd99-2359-4c23-b3f2-f73a16ec75ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="490fa47e-be49-c7f7-e688-1f808e7fcaaa" executionId="584eaf5e-42c6-4f35-8999-a02eaa1bf602" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4947f739-deb8-db54-29ad-f143de8956b0" executionId="35152807-72b8-44cc-804f-f5ad4b1a4b40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="498975fa-28ac-56ea-c148-0d358a0c6927" executionId="1c38dbdd-10be-44ba-9d60-807c0f7d952b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ca59c4a-1586-4df3-4c18-8aad9b220064" executionId="d82877a0-f1bf-47a9-88c4-4d1c0e81ef2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5092a366-4896-a1d3-4b30-9505f776942e" executionId="f16de9ed-ac3f-416d-a515-07190108d7d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57b9104c-3dd5-7ab0-0ce0-fa1c988b04b4" executionId="f9910c0d-1ea5-41a6-9c56-467aec54ecbb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6c794108-9512-4cfe-399f-069beac41e67" executionId="9d67553b-8471-41b7-a0f2-1d1bd695f2c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77c02662-9d79-5d8c-2ce3-01f820b23fd3" executionId="c0d5f3f5-de7c-430f-a94e-0e8b37176c56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7937e4e8-872d-6b6c-9b61-34f1e84fe2dd" executionId="db42cceb-7754-4427-a8b8-dab7fb4ac0be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7e4cf5a5-5b1c-0932-8559-35accf7c452d" executionId="657297f6-1aa4-4404-aa1a-07fdbf1a2001" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="85be2481-f02f-6177-a926-23d7d1e77482" executionId="a0136908-202d-4f7c-a6a1-58cff27cb648" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="86b705c7-9972-2979-5c9c-3e03d4230724" executionId="67fa0fa7-e16e-4a2f-8966-58232f315e41" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8792450d-bd76-961c-f757-852e8d4d4052" executionId="ba08f677-586a-4c92-a68f-5bc8a4ae992e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88625e9d-086d-6f95-871a-ba00a3118136" executionId="aac2d55a-f4c6-4cc8-adc5-fa1b5f91c3db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8f58cb54-4ad6-c1b3-da03-dbae73442545" executionId="f8a63517-3979-4712-9897-e71d1a0142de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="983e7fff-d653-565a-d54b-a93994949ed4" executionId="32184fba-3ac7-4928-a422-e8b8212c73ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="995bd025-5efd-2416-d859-789130a1bdb4" executionId="563653a1-fc5a-419b-8e47-c9693c73fcce" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1a16247-5410-d687-ca1d-14a49f040f67" executionId="a6fc582f-df94-44ef-9c9b-24955fddb2e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5c962c3-516d-a59e-ac49-d473361634e5" executionId="a8447e38-7433-451e-8542-e5d6c82be1c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad85d900-8b15-e0db-270b-0fe6dc68b1e5" executionId="0a35aad6-4a37-45d6-af1e-bd176b60b3a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b169d9f8-48e9-c1ab-f1d0-4527e9150cd3" executionId="9f837b23-05f5-48ea-bde5-9668e2231273" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2057306-c5e9-1add-e7f7-af5dd9b426ff" executionId="1c0c2960-47ed-48ff-b98e-b9fdbf2b5a8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2c71200-05d2-c464-d78a-06f6f0f9cb57" executionId="aa2431f2-fc1d-4c24-be8f-032579a288ec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6b9b077-2616-106e-0759-3bac9fb0a311" executionId="b1efb783-bdbc-4f9c-90a8-cbed1e75a135" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3da0222-7ce6-132e-b376-ad5fdce6bbe7" executionId="1064270e-1d99-4de9-b4db-77472bb9d30a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce4ae171-8b1c-e94a-6046-f6f7f8e80412" executionId="9b59cbac-86b7-4784-953d-30701616bfef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce9085de-45bf-256a-44f0-6cd789b25d2f" executionId="4f019c5b-db29-49df-b3e9-7b2b7632a196" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da63952a-891e-c736-3ada-6df53f00898a" executionId="dcec435a-2cb9-45fe-b5de-58e7583ccc7c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="de393f97-7194-a95f-30b4-c65d3ce26f75" executionId="e1b4ab1c-7b00-4387-99bc-d9efc896e2d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e01e71af-91f5-cd9d-b9a2-e433f623a001" executionId="4239f995-e165-4c38-bb88-2195f468c55f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e20639a1-e3ac-5227-0fa6-529036098c15" executionId="f43bec41-a0ea-4a44-b493-09d936a08634" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ecc15bfd-60f9-5125-4547-4de1352adeee" executionId="24028eba-5001-401a-b8cf-85108ac66e4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f06db92a-baa1-e523-c30b-12ff004e6373" executionId="30c957f3-1030-4733-bb6e-cfb8a62b57e0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f46dde03-01d9-ecfa-51fc-3b81caa02ca8" executionId="50c7768b-73b0-40d4-92ea-b22ea8d98c9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f722bce2-18b8-5d04-bf89-e49deb2d591b" executionId="87d385c9-d145-4a71-86e6-89c60bd93340" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fd010e4f-ec11-356d-71a2-987599af96ee" executionId="b47f4f26-ac7d-46b5-bfa1-3c2e5d742988" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fdeca077-1731-5789-f6c7-97ee935d2199" executionId="897f6483-96ad-4f10-8131-b052edecc7a4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="84150274-b9e1-4e26-ab29-fc84c94bb673" testId="02a94f3f-28bb-d371-d770-2b28d3740a73" testName="GridXTest" computerName="CLPR9K5797" duration="00:00:00.0106480" startTime="2014-06-25T16:14:30.1462532-04:00" endTime="2014-06-25T16:14:30.3682532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="84150274-b9e1-4e26-ab29-fc84c94bb673">
+    </UnitTestResult>
+    <UnitTestResult executionId="efebd2b1-2794-4c20-9135-24ca45c7ecaf" testId="07c79d70-2d05-ff4d-f6cd-1f5ea09a59d1" testName="SectionsActiveTest" computerName="CLPR9K5797" duration="00:00:00.0587132" startTime="2014-06-25T16:14:30.3732532-04:00" endTime="2014-06-25T16:14:30.4342532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="efebd2b1-2794-4c20-9135-24ca45c7ecaf">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="9ef764fb-27e4-4b13-b27d-c4b4a90e2f99" testId="080dedd9-abb0-bcd2-c12e-30f24dd9e2de" testName="pixels_per_inchTest" computerName="CLPR9K5797" duration="00:00:00.0011908" startTime="2014-06-25T16:14:30.4402532-04:00" endTime="2014-06-25T16:14:30.4672532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ef764fb-27e4-4b13-b27d-c4b4a90e2f99">
+    </UnitTestResult>
+    <UnitTestResult executionId="ec95ead5-3fa0-4e2e-8284-24eb74cda05b" testId="0a0c6ae0-e8e4-d050-e17f-dc3dfadf4a27" testName="GridYTest" computerName="CLPR9K5797" duration="00:00:00.0002690" startTime="2014-06-25T16:14:30.4722532-04:00" endTime="2014-06-25T16:14:30.4752532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec95ead5-3fa0-4e2e-8284-24eb74cda05b">
+    </UnitTestResult>
+    <UnitTestResult executionId="39b030e4-3dc7-40ec-b437-6436c4df1ba5" testId="10b01f1c-7c65-5527-c45d-c3020c2cdb4d" testName="PlantNameTest" computerName="CLPR9K5797" duration="00:00:00.0183268" startTime="2014-06-25T16:14:30.4802532-04:00" endTime="2014-06-25T16:14:30.5012532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39b030e4-3dc7-40ec-b437-6436c4df1ba5">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="38897ea6-2678-4554-94f4-03dc04672b79" testId="12766973-1377-5200-80b8-b3f3d230dccd" testName="VesselTypeTest" computerName="CLPR9K5797" duration="00:00:00.0181715" startTime="2014-06-25T16:14:30.5052532-04:00" endTime="2014-06-25T16:14:30.5262532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="38897ea6-2678-4554-94f4-03dc04672b79">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="30f6f5e8-5115-434b-b511-25d03df58132" testId="13b8ffb4-6016-64ca-e887-e1f08ede3f60" testName="XDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0183501" startTime="2014-06-25T16:14:30.5312532-04:00" endTime="2014-06-25T16:14:30.5522532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30f6f5e8-5115-434b-b511-25d03df58132">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0550eedc-1bab-4d6f-8030-b6c5615e3a30" testId="18c0df62-9e71-531f-0839-9641f985ce05" testName="ComponentDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0180676" startTime="2014-06-25T16:14:30.5572532-04:00" endTime="2014-06-25T16:14:30.5772532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0550eedc-1bab-4d6f-8030-b6c5615e3a30">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7c97b4c1-9691-4102-a20c-33cc5f041c22" testId="1b30e23d-b371-e559-363a-b5d56ede01ff" testName="ModelNameTest" computerName="CLPR9K5797" duration="00:00:00.0185259" startTime="2014-06-25T16:14:30.5822532-04:00" endTime="2014-06-25T16:14:30.6032532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c97b4c1-9691-4102-a20c-33cc5f041c22">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b972f464-6601-44a5-a363-2a69ac83a26c" testId="1d65620a-b474-a27f-19c2-672761107b81" testName="OutletDisplaySymbolIDTest" computerName="CLPR9K5797" duration="00:00:00.0002659" startTime="2014-06-25T16:14:30.6092532-04:00" endTime="2014-06-25T16:14:30.6112532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b972f464-6601-44a5-a363-2a69ac83a26c">
+    </UnitTestResult>
+    <UnitTestResult executionId="b77ffc22-ff35-46a5-8f16-9321b1f0a4c5" testId="1dd43818-7534-8c8a-155f-265c089bf3fe" testName="InletRow1Col1LocationTest" computerName="CLPR9K5797" duration="00:00:00.0231959" startTime="2014-06-25T16:14:30.6162532-04:00" endTime="2014-06-25T16:14:30.6412532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b77ffc22-ff35-46a5-8f16-9321b1f0a4c5">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="55d26dd4-ae0b-4310-91ca-358c00decf5f" testId="26a6f9cf-ce57-ec6e-485b-7271debaf27e" testName="InletVesselIDTest" computerName="CLPR9K5797" duration="00:00:00.0212641" startTime="2014-06-25T16:14:30.6462532-04:00" endTime="2014-06-25T16:14:30.6692532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55d26dd4-ae0b-4310-91ca-358c00decf5f">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="08009025-a5e2-4da8-9bce-66f5d8f0c4ec" testId="3107f13f-9a0f-48e7-6fc7-b5c5137b212e" testName="VesselIDTypeTest" computerName="CLPR9K5797" duration="00:00:00.0205766" startTime="2014-06-25T16:14:30.6752532-04:00" endTime="2014-06-25T16:14:30.6982532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="08009025-a5e2-4da8-9bce-66f5d8f0c4ec">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b6f7782e-5d58-4dc5-a3b6-9e02b8da002e" testId="342ab28b-1731-c3f9-fc28-a2a8f9e95cf9" testName="TubeSheetNumberingTypeTest" computerName="CLPR9K5797" duration="00:00:00.0187112" startTime="2014-06-25T16:14:30.7052532-04:00" endTime="2014-06-25T16:14:30.7262532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6f7782e-5d58-4dc5-a3b6-9e02b8da002e">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b2e8bd99-2359-4c23-b3f2-f73a16ec75ad" testId="36391e30-c188-1acc-8ecc-1e01672d00a5" testName="IDTest" computerName="CLPR9K5797" duration="00:00:00.0002493" startTime="2014-06-25T16:14:30.7312532-04:00" endTime="2014-06-25T16:14:30.7332532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b2e8bd99-2359-4c23-b3f2-f73a16ec75ad">
+    </UnitTestResult>
+    <UnitTestResult executionId="584eaf5e-42c6-4f35-8999-a02eaa1bf602" testId="490fa47e-be49-c7f7-e688-1f808e7fcaaa" testName="UtilityDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0201965" startTime="2014-06-25T16:14:30.7372532-04:00" endTime="2014-06-25T16:14:30.7602532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="584eaf5e-42c6-4f35-8999-a02eaa1bf602">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="35152807-72b8-44cc-804f-f5ad4b1a4b40" testId="4947f739-deb8-db54-29ad-f143de8956b0" testName="PlantDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0195307" startTime="2014-06-25T16:14:30.7642532-04:00" endTime="2014-06-25T16:14:30.7862532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35152807-72b8-44cc-804f-f5ad4b1a4b40">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1c38dbdd-10be-44ba-9d60-807c0f7d952b" testId="498975fa-28ac-56ea-c148-0d358a0c6927" testName="ContractorTest" computerName="CLPR9K5797" duration="00:00:00.0287204" startTime="2014-06-25T16:14:30.7922532-04:00" endTime="2014-06-25T16:14:30.8232532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c38dbdd-10be-44ba-9d60-807c0f7d952b">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d82877a0-f1bf-47a9-88c4-4d1c0e81ef2e" testId="4ca59c4a-1586-4df3-4c18-8aad9b220064" testName="group_outline_colorTest" computerName="CLPR9K5797" duration="00:00:00.0011075" startTime="2014-06-25T16:14:30.8282532-04:00" endTime="2014-06-25T16:14:30.8312532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d82877a0-f1bf-47a9-88c4-4d1c0e81ef2e">
+    </UnitTestResult>
+    <UnitTestResult executionId="f16de9ed-ac3f-416d-a515-07190108d7d3" testId="5092a366-4896-a1d3-4b30-9505f776942e" testName="ComponentNameTest" computerName="CLPR9K5797" duration="00:00:00.0172793" startTime="2014-06-25T16:14:30.8352532-04:00" endTime="2014-06-25T16:14:30.8542532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f16de9ed-ac3f-416d-a515-07190108d7d3">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f9910c0d-1ea5-41a6-9c56-467aec54ecbb" testId="57b9104c-3dd5-7ab0-0ce0-fa1c988b04b4" testName="OutletXTest" computerName="CLPR9K5797" duration="00:00:00.0008293" startTime="2014-06-25T16:14:30.8582532-04:00" endTime="2014-06-25T16:14:30.8672532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f9910c0d-1ea5-41a6-9c56-467aec54ecbb">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d67553b-8471-41b7-a0f2-1d1bd695f2c9" testId="6c794108-9512-4cfe-399f-069beac41e67" testName="LegacyIDTest" computerName="CLPR9K5797" duration="00:00:00.0002742" startTime="2014-06-25T16:14:30.8712532-04:00" endTime="2014-06-25T16:14:30.8742532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d67553b-8471-41b7-a0f2-1d1bd695f2c9">
+    </UnitTestResult>
+    <UnitTestResult executionId="c0d5f3f5-de7c-430f-a94e-0e8b37176c56" testId="77c02662-9d79-5d8c-2ce3-01f820b23fd3" testName="miscConstructorTest" computerName="CLPR9K5797" duration="00:00:00.0001521" startTime="2014-06-25T16:14:30.8782532-04:00" endTime="2014-06-25T16:14:30.8812532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0d5f3f5-de7c-430f-a94e-0e8b37176c56">
+    </UnitTestResult>
+    <UnitTestResult executionId="db42cceb-7754-4427-a8b8-dab7fb4ac0be" testId="7937e4e8-872d-6b6c-9b61-34f1e84fe2dd" testName="grid_scaleTest" computerName="CLPR9K5797" duration="00:00:00.0002860" startTime="2014-06-25T16:14:30.8852532-04:00" endTime="2014-06-25T16:14:30.8882532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db42cceb-7754-4427-a8b8-dab7fb4ac0be">
+    </UnitTestResult>
+    <UnitTestResult executionId="657297f6-1aa4-4404-aa1a-07fdbf1a2001" testId="7e4cf5a5-5b1c-0932-8559-35accf7c452d" testName="VesselInformationConstructorTest" computerName="CLPR9K5797" duration="00:00:00.0171371" startTime="2014-06-25T16:14:30.8922532-04:00" endTime="2014-06-25T16:14:30.9112532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="657297f6-1aa4-4404-aa1a-07fdbf1a2001">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a0136908-202d-4f7c-a6a1-58cff27cb648" testId="85be2481-f02f-6177-a926-23d7d1e77482" testName="OutletCalNumberingTest" computerName="CLPR9K5797" duration="00:00:00.0171391" startTime="2014-06-25T16:14:30.9192532-04:00" endTime="2014-06-25T16:14:30.9382532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0136908-202d-4f7c-a6a1-58cff27cb648">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="67fa0fa7-e16e-4a2f-8966-58232f315e41" testId="86b705c7-9972-2979-5c9c-3e03d4230724" testName="UnitTest" computerName="CLPR9K5797" duration="00:00:00.0169146" startTime="2014-06-25T16:14:30.9442532-04:00" endTime="2014-06-25T16:14:30.9632532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67fa0fa7-e16e-4a2f-8966-58232f315e41">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ba08f677-586a-4c92-a68f-5bc8a4ae992e" testId="8792450d-bd76-961c-f757-852e8d4d4052" testName="OutletYTest" computerName="CLPR9K5797" duration="00:00:00.0002963" startTime="2014-06-25T16:14:30.9692532-04:00" endTime="2014-06-25T16:14:30.9712532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba08f677-586a-4c92-a68f-5bc8a4ae992e">
+    </UnitTestResult>
+    <UnitTestResult executionId="aac2d55a-f4c6-4cc8-adc5-fa1b5f91c3db" testId="88625e9d-086d-6f95-871a-ba00a3118136" testName="XLabelTest" computerName="CLPR9K5797" duration="00:00:00.0002987" startTime="2014-06-25T16:14:30.9762532-04:00" endTime="2014-06-25T16:14:30.9782532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aac2d55a-f4c6-4cc8-adc5-fa1b5f91c3db">
+    </UnitTestResult>
+    <UnitTestResult executionId="f8a63517-3979-4712-9897-e71d1a0142de" testId="8f58cb54-4ad6-c1b3-da03-dbae73442545" testName="YDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0171817" startTime="2014-06-25T16:14:30.9822532-04:00" endTime="2014-06-25T16:14:31.0012532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8a63517-3979-4712-9897-e71d1a0142de">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="32184fba-3ac7-4928-a422-e8b8212c73ec" testId="983e7fff-d653-565a-d54b-a93994949ed4" testName="foreground_colorTest" computerName="CLPR9K5797" duration="00:00:00.0004607" startTime="2014-06-25T16:14:31.0062532-04:00" endTime="2014-06-25T16:14:31.0102532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32184fba-3ac7-4928-a422-e8b8212c73ec">
+    </UnitTestResult>
+    <UnitTestResult executionId="563653a1-fc5a-419b-8e47-c9693c73fcce" testId="995bd025-5efd-2416-d859-789130a1bdb4" testName="InletCalNumberingTest" computerName="CLPR9K5797" duration="00:00:00.0194778" startTime="2014-06-25T16:14:31.0152532-04:00" endTime="2014-06-25T16:14:31.0372532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="563653a1-fc5a-419b-8e47-c9693c73fcce">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a6fc582f-df94-44ef-9c9b-24955fddb2e5" testId="a1a16247-5410-d687-ca1d-14a49f040f67" testName="IntletDisplaySymbolIDTest" computerName="CLPR9K5797" duration="00:00:00.0002572" startTime="2014-06-25T16:14:31.0422532-04:00" endTime="2014-06-25T16:14:31.0442532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6fc582f-df94-44ef-9c9b-24955fddb2e5">
+    </UnitTestResult>
+    <UnitTestResult executionId="a8447e38-7433-451e-8542-e5d6c82be1c2" testId="a5c962c3-516d-a59e-ac49-d473361634e5" testName="TubeConstructorTest" computerName="CLPR9K5797" duration="00:00:00.0001580" startTime="2014-06-25T16:14:31.0492532-04:00" endTime="2014-06-25T16:14:31.0522532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a8447e38-7433-451e-8542-e5d6c82be1c2">
+    </UnitTestResult>
+    <UnitTestResult executionId="0a35aad6-4a37-45d6-af1e-bd176b60b3a7" testId="ad85d900-8b15-e0db-270b-0fe6dc68b1e5" testName="InletXTest" computerName="CLPR9K5797" duration="00:00:00.0003311" startTime="2014-06-25T16:14:31.0572532-04:00" endTime="2014-06-25T16:14:31.0592532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0a35aad6-4a37-45d6-af1e-bd176b60b3a7">
+    </UnitTestResult>
+    <UnitTestResult executionId="9f837b23-05f5-48ea-bde5-9668e2231273" testId="b169d9f8-48e9-c1ab-f1d0-4527e9150cd3" testName="InletChannelHeadTest" computerName="CLPR9K5797" duration="00:00:00.0202008" startTime="2014-06-25T16:14:31.0642532-04:00" endTime="2014-06-25T16:14:31.0862532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f837b23-05f5-48ea-bde5-9668e2231273">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1c0c2960-47ed-48ff-b98e-b9fdbf2b5a8e" testId="b2057306-c5e9-1add-e7f7-af5dd9b426ff" testName="ModelDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0173133" startTime="2014-06-25T16:14:31.0912532-04:00" endTime="2014-06-25T16:14:31.1112532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1c0c2960-47ed-48ff-b98e-b9fdbf2b5a8e">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="aa2431f2-fc1d-4c24-be8f-032579a288ec" testId="b2c71200-05d2-c464-d78a-06f6f0f9cb57" testName="YxXyNotationTest" computerName="CLPR9K5797" duration="00:00:00.0197346" startTime="2014-06-25T16:14:31.1162532-04:00" endTime="2014-06-25T16:14:31.1392532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa2431f2-fc1d-4c24-be8f-032579a288ec">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b1efb783-bdbc-4f9c-90a8-cbed1e75a135" testId="b6b9b077-2616-106e-0759-3bac9fb0a311" testName="SectionLabelTest" computerName="CLPR9K5797" duration="00:00:00.0002568" startTime="2014-06-25T16:14:31.1442532-04:00" endTime="2014-06-25T16:14:31.1462532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1efb783-bdbc-4f9c-90a8-cbed1e75a135">
+    </UnitTestResult>
+    <UnitTestResult executionId="1064270e-1d99-4de9-b4db-77472bb9d30a" testId="c3da0222-7ce6-132e-b376-ad5fdce6bbe7" testName="InletYTest" computerName="CLPR9K5797" duration="00:00:00.0003160" startTime="2014-06-25T16:14:31.1512532-04:00" endTime="2014-06-25T16:14:31.1532532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1064270e-1d99-4de9-b4db-77472bb9d30a">
+    </UnitTestResult>
+    <UnitTestResult executionId="9b59cbac-86b7-4784-953d-30701616bfef" testId="ce4ae171-8b1c-e94a-6046-f6f7f8e80412" testName="grid_colorTest" computerName="CLPR9K5797" duration="00:00:00.0003022" startTime="2014-06-25T16:14:31.1572532-04:00" endTime="2014-06-25T16:14:31.1592532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9b59cbac-86b7-4784-953d-30701616bfef">
+    </UnitTestResult>
+    <UnitTestResult executionId="4f019c5b-db29-49df-b3e9-7b2b7632a196" testId="ce9085de-45bf-256a-44f0-6cd789b25d2f" testName="MinimumTubeRadiusTest" computerName="CLPR9K5797" duration="00:00:00.0166388" startTime="2014-06-25T16:14:31.1642532-04:00" endTime="2014-06-25T16:14:31.1822532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f019c5b-db29-49df-b3e9-7b2b7632a196">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="dcec435a-2cb9-45fe-b5de-58e7583ccc7c" testId="da63952a-891e-c736-3ada-6df53f00898a" testName="SectionDesignationTest" computerName="CLPR9K5797" duration="00:00:00.0168573" startTime="2014-06-25T16:14:31.1882532-04:00" endTime="2014-06-25T16:14:31.2072532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dcec435a-2cb9-45fe-b5de-58e7583ccc7c">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e1b4ab1c-7b00-4387-99bc-d9efc896e2d4" testId="de393f97-7194-a95f-30b4-c65d3ce26f75" testName="OutletVesselIDTest" computerName="CLPR9K5797" duration="00:00:00.0173240" startTime="2014-06-25T16:14:31.2122532-04:00" endTime="2014-06-25T16:14:31.2312532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e1b4ab1c-7b00-4387-99bc-d9efc896e2d4">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4239f995-e165-4c38-bb88-2195f468c55f" testId="e01e71af-91f5-cd9d-b9a2-e433f623a001" testName="UtilityNameTest" computerName="CLPR9K5797" duration="00:00:00.0174974" startTime="2014-06-25T16:14:31.2352532-04:00" endTime="2014-06-25T16:14:31.2552532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4239f995-e165-4c38-bb88-2195f468c55f">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f43bec41-a0ea-4a44-b493-09d936a08634" testId="e20639a1-e3ac-5227-0fa6-529036098c15" testName="background_colorTest" computerName="CLPR9K5797" duration="00:00:00.0002991" startTime="2014-06-25T16:14:31.2602532-04:00" endTime="2014-06-25T16:14:31.2632532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f43bec41-a0ea-4a44-b493-09d936a08634">
+    </UnitTestResult>
+    <UnitTestResult executionId="24028eba-5001-401a-b8cf-85108ac66e4b" testId="ecc15bfd-60f9-5125-4547-4de1352adeee" testName="symbol_sizeTest" computerName="CLPR9K5797" duration="00:00:00.0002489" startTime="2014-06-25T16:14:31.2672532-04:00" endTime="2014-06-25T16:14:31.2692532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="24028eba-5001-401a-b8cf-85108ac66e4b">
+    </UnitTestResult>
+    <UnitTestResult executionId="30c957f3-1030-4733-bb6e-cfb8a62b57e0" testId="f06db92a-baa1-e523-c30b-12ff004e6373" testName="MaterialIDTest" computerName="CLPR9K5797" duration="00:00:00.0002663" startTime="2014-06-25T16:14:31.2742532-04:00" endTime="2014-06-25T16:14:31.2762532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="30c957f3-1030-4733-bb6e-cfb8a62b57e0">
+    </UnitTestResult>
+    <UnitTestResult executionId="50c7768b-73b0-40d4-92ea-b22ea8d98c9a" testId="f46dde03-01d9-ecfa-51fc-3b81caa02ca8" testName="YLabelTest" computerName="CLPR9K5797" duration="00:00:00.0002588" startTime="2014-06-25T16:14:31.2812532-04:00" endTime="2014-06-25T16:14:31.2832532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50c7768b-73b0-40d4-92ea-b22ea8d98c9a">
+    </UnitTestResult>
+    <UnitTestResult executionId="87d385c9-d145-4a71-86e6-89c60bd93340" testId="f722bce2-18b8-5d04-bf89-e49deb2d591b" testName="BowlRadiusTest" computerName="CLPR9K5797" duration="00:00:00.0172169" startTime="2014-06-25T16:14:31.2882532-04:00" endTime="2014-06-25T16:14:31.3072532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="87d385c9-d145-4a71-86e6-89c60bd93340">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize threw exception. System.InvalidCastException: System.InvalidCastException: Unable to cast object of type 'System.Xml.Linq.XElement' to type 'System.IConvertible'..</Message>
+          <StackTrace>    at System.Convert.ToInt32(Object value)
+   at ZetecXMLModels.XMLModelReader.ReadVesselInformationFromZetecModelFile(String path) in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\XMLModelReader.cs:line 124
+   at ZetecXMLModelsUnitTests.VesselInformationTest.MyTestInitialize() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\VesselInformationTest.cs:line 56
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b47f4f26-ac7d-46b5-bfa1-3c2e5d742988" testId="fd010e4f-ec11-356d-71a2-987599af96ee" testName="ToStringTest" computerName="CLPR9K5797" duration="00:00:00.0566341" startTime="2014-06-25T16:14:31.3122532-04:00" endTime="2014-06-25T16:14:31.3712532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b47f4f26-ac7d-46b5-bfa1-3c2e5d742988">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;XX Row:1 Col:1&gt;. Actual:&lt;Sec:XX Row:1 Col:1&gt;. </Message>
+          <StackTrace>   at ZetecXMLModelsUnitTests.TubeTest.ToStringTest() in C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\TubeTest.cs:line 91
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="897f6483-96ad-4f10-8131-b052edecc7a4" testId="fdeca077-1731-5789-f6c7-97ee935d2199" testName="text_colorTest" computerName="CLPR9K5797" duration="00:00:00.0003457" startTime="2014-06-25T16:14:31.3812532-04:00" endTime="2014-06-25T16:14:31.3862532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="897f6483-96ad-4f10-8131-b052edecc7a4">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,16 @@
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\App.g.cs
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo.Properties.Resources.resources
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo.csproj.GenerateResource.Cache
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\TubeSheetView.baml
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\TubeSheetView.g.cs
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\bin\Debug\ZetecXMLModels.dll
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\bin\Debug\ZetecXMLModels.pdb
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo.csprojResolveAssemblyReference.cache
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\bin\Debug\ZetecModelWPFDemo.exe
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\bin\Debug\ZetecModelWPFDemo.pdb
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo_MarkupCompile.cache
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo.g.resources
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo.exe
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\etConsoleApplication1\obj\x86\Debug\ZetecModelWPFDemo.pdb

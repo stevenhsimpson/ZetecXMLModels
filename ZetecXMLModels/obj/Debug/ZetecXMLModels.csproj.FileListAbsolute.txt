@@ -1,0 +1,5 @@
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\bin\Debug\ZetecXMLModels.dll
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\bin\Debug\ZetecXMLModels.pdb
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\obj\Debug\ZetecXMLModels.dll
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\obj\Debug\ZetecXMLModels.pdb
+C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\obj\Debug\ZetecXMLModels.csprojResolveAssemblyReference.cache

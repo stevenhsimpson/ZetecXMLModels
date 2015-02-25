@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4fd5dc9e-32cd-48eb-a33b-970f10c594e0" name="shsimpson@CLPR9K5797 2014-06-25 16:15:20" runUser="BWES\shsimpson" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c8ac5721-ddb3-4dfb-8f66-2f5de01df2a9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="shsimpson_CLPR9K5797 2014-06-25 16_15_20">
+      <DeploymentItem filename="ZetecXMLModelsUnitTests\BGA-33110-SG.xml" />
+      <DeploymentItem filename="C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModels\bin\Debug\ZetecXMLModels.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-06-25T16:15:20.8602532-04:00" queuing="2014-06-25T16:15:22.1662532-04:00" start="2014-06-25T16:15:22.2782532-04:00" finish="2014-06-25T16:16:03.6632532-04:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="52" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="50" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <DebugTrace>4210
+</DebugTrace>
+    </Output>
+    <RunInfos>
+      <RunInfo computerName="CLPR9K5797" outcome="Error" timestamp="2014-06-25T16:16:03.6572532-04:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="YDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="8f58cb54-4ad6-c1b3-da03-dbae73442545">
+      <Execution id="ce2d2bb9-4258-4d3b-817e-94b6ce7d36c6" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="YDesignationTest" />
+    </UnitTest>
+    <UnitTest name="group_outline_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="4ca59c4a-1586-4df3-4c18-8aad9b220064">
+      <Execution id="c6228000-ddbc-49fa-a6f8-4914f78bff98" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="group_outline_colorTest" />
+    </UnitTest>
+    <UnitTest name="YLabelTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="f46dde03-01d9-ecfa-51fc-3b81caa02ca8">
+      <Execution id="22ef6a77-2512-425d-ba90-ee2e07473fda" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="YLabelTest" />
+    </UnitTest>
+    <UnitTest name="GridXTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="02a94f3f-28bb-d371-d770-2b28d3740a73">
+      <Execution id="fe7e35f4-8b3c-4b1e-a9f4-1a34bfddef88" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GridXTest" />
+    </UnitTest>
+    <UnitTest name="GridYTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="0a0c6ae0-e8e4-d050-e17f-dc3dfadf4a27">
+      <Execution id="35878a2b-8e85-4086-89da-1865e3d40f7e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GridYTest" />
+    </UnitTest>
+    <UnitTest name="BowlRadiusTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="f722bce2-18b8-5d04-bf89-e49deb2d591b">
+      <Execution id="9fc66d01-1c75-48aa-aa74-a231545f8615" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="BowlRadiusTest" />
+    </UnitTest>
+    <UnitTest name="PlantNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="10b01f1c-7c65-5527-c45d-c3020c2cdb4d">
+      <Execution id="b3e67c74-c54e-4262-9d93-792b57e01783" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlantNameTest" />
+    </UnitTest>
+    <UnitTest name="IDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="36391e30-c188-1acc-8ecc-1e01672d00a5">
+      <Execution id="04de6902-3e23-4e79-9793-deaab5fd834f" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IDTest" />
+    </UnitTest>
+    <UnitTest name="miscConstructorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="77c02662-9d79-5d8c-2ce3-01f820b23fd3">
+      <Execution id="b5feb8b6-7871-4a86-8596-e0cafd3ba5a2" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="miscConstructorTest" />
+    </UnitTest>
+    <UnitTest name="OutletCalNumberingTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="85be2481-f02f-6177-a926-23d7d1e77482">
+      <Execution id="b8dabd8b-9bba-4a17-8b10-fd5ae3ebcb76" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletCalNumberingTest" />
+    </UnitTest>
+    <UnitTest name="InletVesselIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="26a6f9cf-ce57-ec6e-485b-7271debaf27e">
+      <Execution id="4ab3e062-e596-44ed-bf87-f6a9c06f7af2" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletVesselIDTest" />
+    </UnitTest>
+    <UnitTest name="background_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="e20639a1-e3ac-5227-0fa6-529036098c15">
+      <Execution id="1e88ec6d-6ff2-477f-84f8-fd4ea2b7461c" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="background_colorTest" />
+    </UnitTest>
+    <UnitTest name="XDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="13b8ffb4-6016-64ca-e887-e1f08ede3f60">
+      <Execution id="c3371ad3-089b-4490-9907-175e72dd69d1" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XDesignationTest" />
+    </UnitTest>
+    <UnitTest name="text_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="fdeca077-1731-5789-f6c7-97ee935d2199">
+      <Execution id="80d5d34b-61d1-4a10-a1fb-214ced75f03e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="text_colorTest" />
+    </UnitTest>
+    <UnitTest name="grid_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ce4ae171-8b1c-e94a-6046-f6f7f8e80412">
+      <Execution id="09f3366e-d4bc-4662-8763-cc47f1de7dcc" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="grid_colorTest" />
+    </UnitTest>
+    <UnitTest name="SectionsActiveTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="07c79d70-2d05-ff4d-f6cd-1f5ea09a59d1">
+      <Execution id="96c39d24-66ea-46fa-b649-9a81d68b6f8e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SectionsActiveTest" />
+    </UnitTest>
+    <UnitTest name="XLabelTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="88625e9d-086d-6f95-871a-ba00a3118136">
+      <Execution id="2054e832-2011-470a-9e80-0866cd21888b" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XLabelTest" />
+    </UnitTest>
+    <UnitTest name="OutletDisplaySymbolIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="1d65620a-b474-a27f-19c2-672761107b81">
+      <Execution id="60e7579d-c14f-4a99-b7e6-6aad5a230619" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletDisplaySymbolIDTest" />
+    </UnitTest>
+    <UnitTest name="OutletVesselIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="de393f97-7194-a95f-30b4-c65d3ce26f75">
+      <Execution id="8597ad4a-d473-421d-a821-1f8df1cd4945" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletVesselIDTest" />
+    </UnitTest>
+    <UnitTest name="UnitTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="86b705c7-9972-2979-5c9c-3e03d4230724">
+      <Execution id="88f21afc-0790-4745-92d5-f72e70105708" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnitTest" />
+    </UnitTest>
+    <UnitTest name="IntletDisplaySymbolIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="a1a16247-5410-d687-ca1d-14a49f040f67">
+      <Execution id="f6a70f58-3585-4e8b-8ba7-b476ee9e5e94" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="IntletDisplaySymbolIDTest" />
+    </UnitTest>
+    <UnitTest name="ModelNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="1b30e23d-b371-e559-363a-b5d56ede01ff">
+      <Execution id="b4bcbe50-5def-4807-a8b0-bcc25a2b2d00" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ModelNameTest" />
+    </UnitTest>
+    <UnitTest name="ComponentNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="5092a366-4896-a1d3-4b30-9505f776942e">
+      <Execution id="f68bc35a-8ae5-4476-ab39-f6de36cdfb0a" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ComponentNameTest" />
+    </UnitTest>
+    <UnitTest name="InletCalNumberingTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="995bd025-5efd-2416-d859-789130a1bdb4">
+      <Execution id="1141381a-1525-402b-b50b-ebf257577873" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletCalNumberingTest" />
+    </UnitTest>
+    <UnitTest name="MinimumTubeRadiusTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ce9085de-45bf-256a-44f0-6cd789b25d2f">
+      <Execution id="8b88a0ca-f1c1-4038-bd35-95ddd9d822af" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MinimumTubeRadiusTest" />
+    </UnitTest>
+    <UnitTest name="OutletYTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="8792450d-bd76-961c-f757-852e8d4d4052">
+      <Execution id="87649267-0e43-48a4-86a8-18d20e79bebc" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletYTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="fd010e4f-ec11-356d-71a2-987599af96ee">
+      <Execution id="dbc96f29-444b-4b43-b95d-b50264006b9e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="VesselTypeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="12766973-1377-5200-80b8-b3f3d230dccd">
+      <Execution id="42fad402-109d-49e9-b134-212bf16ea6bd" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VesselTypeTest" />
+    </UnitTest>
+    <UnitTest name="VesselInformationConstructorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="7e4cf5a5-5b1c-0932-8559-35accf7c452d">
+      <Execution id="e93ee458-9b24-41ff-bf72-9eab5e320fe5" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VesselInformationConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ComponentDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="18c0df62-9e71-531f-0839-9641f985ce05">
+      <Execution id="32f651be-8651-49d4-8973-69b6c0011c38" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ComponentDesignationTest" />
+    </UnitTest>
+    <UnitTest name="ContractorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="498975fa-28ac-56ea-c148-0d358a0c6927">
+      <Execution id="f97245ef-2e96-4467-b178-ae717a85c4b6" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ContractorTest" />
+    </UnitTest>
+    <UnitTest name="TubeSheetNumberingTypeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="342ab28b-1731-c3f9-fc28-a2a8f9e95cf9">
+      <Execution id="11a47d94-a743-4e67-9093-a4db6fa19c51" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TubeSheetNumberingTypeTest" />
+    </UnitTest>
+    <UnitTest name="PlantDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="4947f739-deb8-db54-29ad-f143de8956b0">
+      <Execution id="19276660-a33a-4045-9b30-c649a555f05d" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="PlantDesignationTest" />
+    </UnitTest>
+    <UnitTest name="MaterialIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="f06db92a-baa1-e523-c30b-12ff004e6373">
+      <Execution id="666a26f4-3f76-4ace-b9da-af250267555f" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MaterialIDTest" />
+    </UnitTest>
+    <UnitTest name="SectionDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="da63952a-891e-c736-3ada-6df53f00898a">
+      <Execution id="346704ec-e9ab-4cc0-b1d2-642efd18dc4f" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SectionDesignationTest" />
+    </UnitTest>
+    <UnitTest name="InletXTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ad85d900-8b15-e0db-270b-0fe6dc68b1e5">
+      <Execution id="f5c3911e-33a9-46c4-9f3b-965c4125b890" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletXTest" />
+    </UnitTest>
+    <UnitTest name="OutletXTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="57b9104c-3dd5-7ab0-0ce0-fa1c988b04b4">
+      <Execution id="90340258-bacf-4906-b35c-a02e7c729c98" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="OutletXTest" />
+    </UnitTest>
+    <UnitTest name="ModelDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b2057306-c5e9-1add-e7f7-af5dd9b426ff">
+      <Execution id="d8d50bd4-0908-4755-88eb-7cd8bae36da9" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ModelDesignationTest" />
+    </UnitTest>
+    <UnitTest name="UtilityNameTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="e01e71af-91f5-cd9d-b9a2-e433f623a001">
+      <Execution id="712d816b-6c15-49f1-a996-65dfee577375" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UtilityNameTest" />
+    </UnitTest>
+    <UnitTest name="InletChannelHeadTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b169d9f8-48e9-c1ab-f1d0-4527e9150cd3">
+      <Execution id="b1be34b0-c34c-4f28-b6ab-2a2a820e7f8e" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletChannelHeadTest" />
+    </UnitTest>
+    <UnitTest name="LegacyIDTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="6c794108-9512-4cfe-399f-069beac41e67">
+      <Execution id="ca060cd7-01b2-4b19-be15-f2a593bc0cdb" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LegacyIDTest" />
+    </UnitTest>
+    <UnitTest name="pixels_per_inchTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="080dedd9-abb0-bcd2-c12e-30f24dd9e2de">
+      <Execution id="b28cff50-eb2f-4de2-92cd-b5cb1bf83b64" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="pixels_per_inchTest" />
+    </UnitTest>
+    <UnitTest name="InletYTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="c3da0222-7ce6-132e-b376-ad5fdce6bbe7">
+      <Execution id="cd751ef4-b1f1-4d75-a6bc-313a5b442e45" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletYTest" />
+    </UnitTest>
+    <UnitTest name="SectionLabelTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b6b9b077-2616-106e-0759-3bac9fb0a311">
+      <Execution id="c1950ece-3b63-4272-bc8f-f9307d84e752" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SectionLabelTest" />
+    </UnitTest>
+    <UnitTest name="TubeConstructorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="a5c962c3-516d-a59e-ac49-d473361634e5">
+      <Execution id="2883efb2-5cdb-475f-9dd4-de27eaa74fb3" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.TubeTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TubeConstructorTest" />
+    </UnitTest>
+    <UnitTest name="YxXyNotationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="b2c71200-05d2-c464-d78a-06f6f0f9cb57">
+      <Execution id="a23f8848-0878-4c36-8887-c8fddc66a743" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="YxXyNotationTest" />
+    </UnitTest>
+    <UnitTest name="VesselIDTypeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="3107f13f-9a0f-48e7-6fc7-b5c5137b212e">
+      <Execution id="0592171a-3f28-4955-b048-33bf2f01c9cc" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VesselIDTypeTest" />
+    </UnitTest>
+    <UnitTest name="grid_scaleTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="7937e4e8-872d-6b6c-9b61-34f1e84fe2dd">
+      <Execution id="090c4ba0-0cb7-4acc-9c54-523f49bce008" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="grid_scaleTest" />
+    </UnitTest>
+    <UnitTest name="symbol_sizeTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="ecc15bfd-60f9-5125-4547-4de1352adeee">
+      <Execution id="b7f28bf4-56e7-4d97-8fd9-b8c09db2c285" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="symbol_sizeTest" />
+    </UnitTest>
+    <UnitTest name="foreground_colorTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="983e7fff-d653-565a-d54b-a93994949ed4">
+      <Execution id="1b4a04eb-9e69-492d-ba39-760cd924a769" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.miscTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="foreground_colorTest" />
+    </UnitTest>
+    <UnitTest name="InletRow1Col1LocationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="1dd43818-7534-8c8a-155f-265c089bf3fe">
+      <Execution id="58648f50-e8bb-4a06-8c3e-f95f086bddd8" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="InletRow1Col1LocationTest" />
+    </UnitTest>
+    <UnitTest name="UtilityDesignationTest" storage="c:\users\shsimpson\documents\visual studio 2010\projects\zetecxmlmodels\zetecxmlmodelsunittests\bin\debug\zetecxmlmodelsunittests.dll" id="490fa47e-be49-c7f7-e688-1f808e7fcaaa">
+      <Execution id="a990b2af-5c3a-487a-82cb-17ead1b02c6c" />
+      <TestMethod codeBase="C:/Users/SHSimpson/Documents/Visual Studio 2010/Projects/ZetecXMLModels/ZetecXMLModelsUnitTests/bin/Debug/ZetecXMLModelsUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ZetecXMLModelsUnitTests.VesselInformationTest, ZetecXMLModelsUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UtilityDesignationTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="02a94f3f-28bb-d371-d770-2b28d3740a73" executionId="fe7e35f4-8b3c-4b1e-a9f4-1a34bfddef88" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="07c79d70-2d05-ff4d-f6cd-1f5ea09a59d1" executionId="96c39d24-66ea-46fa-b649-9a81d68b6f8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="080dedd9-abb0-bcd2-c12e-30f24dd9e2de" executionId="b28cff50-eb2f-4de2-92cd-b5cb1bf83b64" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0a0c6ae0-e8e4-d050-e17f-dc3dfadf4a27" executionId="35878a2b-8e85-4086-89da-1865e3d40f7e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10b01f1c-7c65-5527-c45d-c3020c2cdb4d" executionId="b3e67c74-c54e-4262-9d93-792b57e01783" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12766973-1377-5200-80b8-b3f3d230dccd" executionId="42fad402-109d-49e9-b134-212bf16ea6bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="13b8ffb4-6016-64ca-e887-e1f08ede3f60" executionId="c3371ad3-089b-4490-9907-175e72dd69d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18c0df62-9e71-531f-0839-9641f985ce05" executionId="32f651be-8651-49d4-8973-69b6c0011c38" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b30e23d-b371-e559-363a-b5d56ede01ff" executionId="b4bcbe50-5def-4807-a8b0-bcc25a2b2d00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1d65620a-b474-a27f-19c2-672761107b81" executionId="60e7579d-c14f-4a99-b7e6-6aad5a230619" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1dd43818-7534-8c8a-155f-265c089bf3fe" executionId="58648f50-e8bb-4a06-8c3e-f95f086bddd8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26a6f9cf-ce57-ec6e-485b-7271debaf27e" executionId="4ab3e062-e596-44ed-bf87-f6a9c06f7af2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3107f13f-9a0f-48e7-6fc7-b5c5137b212e" executionId="0592171a-3f28-4955-b048-33bf2f01c9cc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="342ab28b-1731-c3f9-fc28-a2a8f9e95cf9" executionId="11a47d94-a743-4e67-9093-a4db6fa19c51" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="36391e30-c188-1acc-8ecc-1e01672d00a5" executionId="04de6902-3e23-4e79-9793-deaab5fd834f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="490fa47e-be49-c7f7-e688-1f808e7fcaaa" executionId="a990b2af-5c3a-487a-82cb-17ead1b02c6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4947f739-deb8-db54-29ad-f143de8956b0" executionId="19276660-a33a-4045-9b30-c649a555f05d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="498975fa-28ac-56ea-c148-0d358a0c6927" executionId="f97245ef-2e96-4467-b178-ae717a85c4b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ca59c4a-1586-4df3-4c18-8aad9b220064" executionId="c6228000-ddbc-49fa-a6f8-4914f78bff98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5092a366-4896-a1d3-4b30-9505f776942e" executionId="f68bc35a-8ae5-4476-ab39-f6de36cdfb0a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57b9104c-3dd5-7ab0-0ce0-fa1c988b04b4" executionId="90340258-bacf-4906-b35c-a02e7c729c98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6c794108-9512-4cfe-399f-069beac41e67" executionId="ca060cd7-01b2-4b19-be15-f2a593bc0cdb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77c02662-9d79-5d8c-2ce3-01f820b23fd3" executionId="b5feb8b6-7871-4a86-8596-e0cafd3ba5a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7937e4e8-872d-6b6c-9b61-34f1e84fe2dd" executionId="090c4ba0-0cb7-4acc-9c54-523f49bce008" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7e4cf5a5-5b1c-0932-8559-35accf7c452d" executionId="e93ee458-9b24-41ff-bf72-9eab5e320fe5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="85be2481-f02f-6177-a926-23d7d1e77482" executionId="b8dabd8b-9bba-4a17-8b10-fd5ae3ebcb76" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="86b705c7-9972-2979-5c9c-3e03d4230724" executionId="88f21afc-0790-4745-92d5-f72e70105708" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8792450d-bd76-961c-f757-852e8d4d4052" executionId="87649267-0e43-48a4-86a8-18d20e79bebc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88625e9d-086d-6f95-871a-ba00a3118136" executionId="2054e832-2011-470a-9e80-0866cd21888b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8f58cb54-4ad6-c1b3-da03-dbae73442545" executionId="ce2d2bb9-4258-4d3b-817e-94b6ce7d36c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="983e7fff-d653-565a-d54b-a93994949ed4" executionId="1b4a04eb-9e69-492d-ba39-760cd924a769" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="995bd025-5efd-2416-d859-789130a1bdb4" executionId="1141381a-1525-402b-b50b-ebf257577873" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1a16247-5410-d687-ca1d-14a49f040f67" executionId="f6a70f58-3585-4e8b-8ba7-b476ee9e5e94" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a5c962c3-516d-a59e-ac49-d473361634e5" executionId="2883efb2-5cdb-475f-9dd4-de27eaa74fb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ad85d900-8b15-e0db-270b-0fe6dc68b1e5" executionId="f5c3911e-33a9-46c4-9f3b-965c4125b890" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b169d9f8-48e9-c1ab-f1d0-4527e9150cd3" executionId="b1be34b0-c34c-4f28-b6ab-2a2a820e7f8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2057306-c5e9-1add-e7f7-af5dd9b426ff" executionId="d8d50bd4-0908-4755-88eb-7cd8bae36da9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2c71200-05d2-c464-d78a-06f6f0f9cb57" executionId="a23f8848-0878-4c36-8887-c8fddc66a743" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6b9b077-2616-106e-0759-3bac9fb0a311" executionId="c1950ece-3b63-4272-bc8f-f9307d84e752" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3da0222-7ce6-132e-b376-ad5fdce6bbe7" executionId="cd751ef4-b1f1-4d75-a6bc-313a5b442e45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce4ae171-8b1c-e94a-6046-f6f7f8e80412" executionId="09f3366e-d4bc-4662-8763-cc47f1de7dcc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce9085de-45bf-256a-44f0-6cd789b25d2f" executionId="8b88a0ca-f1c1-4038-bd35-95ddd9d822af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da63952a-891e-c736-3ada-6df53f00898a" executionId="346704ec-e9ab-4cc0-b1d2-642efd18dc4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="de393f97-7194-a95f-30b4-c65d3ce26f75" executionId="8597ad4a-d473-421d-a821-1f8df1cd4945" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e01e71af-91f5-cd9d-b9a2-e433f623a001" executionId="712d816b-6c15-49f1-a996-65dfee577375" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e20639a1-e3ac-5227-0fa6-529036098c15" executionId="1e88ec6d-6ff2-477f-84f8-fd4ea2b7461c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ecc15bfd-60f9-5125-4547-4de1352adeee" executionId="b7f28bf4-56e7-4d97-8fd9-b8c09db2c285" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f06db92a-baa1-e523-c30b-12ff004e6373" executionId="666a26f4-3f76-4ace-b9da-af250267555f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f46dde03-01d9-ecfa-51fc-3b81caa02ca8" executionId="22ef6a77-2512-425d-ba90-ee2e07473fda" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f722bce2-18b8-5d04-bf89-e49deb2d591b" executionId="9fc66d01-1c75-48aa-aa74-a231545f8615" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fd010e4f-ec11-356d-71a2-987599af96ee" executionId="dbc96f29-444b-4b43-b95d-b50264006b9e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fdeca077-1731-5789-f6c7-97ee935d2199" executionId="80d5d34b-61d1-4a10-a1fb-214ced75f03e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fe7e35f4-8b3c-4b1e-a9f4-1a34bfddef88" testId="02a94f3f-28bb-d371-d770-2b28d3740a73" testName="GridXTest" computerName="CLPR9K5797" duration="00:00:00.0087127" startTime="2014-06-25T16:15:22.3522532-04:00" endTime="2014-06-25T16:15:23.7362532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fe7e35f4-8b3c-4b1e-a9f4-1a34bfddef88">
+    </UnitTestResult>
+    <UnitTestResult executionId="96c39d24-66ea-46fa-b649-9a81d68b6f8e" testId="07c79d70-2d05-ff4d-f6cd-1f5ea09a59d1" testName="SectionsActiveTest" computerName="CLPR9K5797" duration="00:00:39.9150000" startTime="2014-06-25T16:15:23.7442532-04:00" endTime="2014-06-25T16:16:03.6592532-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96c39d24-66ea-46fa-b649-9a81d68b6f8e">
+    </UnitTestResult>
+    <UnitTestResult executionId="b28cff50-eb2f-4de2-92cd-b5cb1bf83b64" testId="080dedd9-abb0-bcd2-c12e-30f24dd9e2de" testName="pixels_per_inchTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b28cff50-eb2f-4de2-92cd-b5cb1bf83b64">
+    </UnitTestResult>
+    <UnitTestResult executionId="35878a2b-8e85-4086-89da-1865e3d40f7e" testId="0a0c6ae0-e8e4-d050-e17f-dc3dfadf4a27" testName="GridYTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35878a2b-8e85-4086-89da-1865e3d40f7e">
+    </UnitTestResult>
+    <UnitTestResult executionId="b3e67c74-c54e-4262-9d93-792b57e01783" testId="10b01f1c-7c65-5527-c45d-c3020c2cdb4d" testName="PlantNameTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b3e67c74-c54e-4262-9d93-792b57e01783">
+    </UnitTestResult>
+    <UnitTestResult executionId="42fad402-109d-49e9-b134-212bf16ea6bd" testId="12766973-1377-5200-80b8-b3f3d230dccd" testName="VesselTypeTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42fad402-109d-49e9-b134-212bf16ea6bd">
+    </UnitTestResult>
+    <UnitTestResult executionId="c3371ad3-089b-4490-9907-175e72dd69d1" testId="13b8ffb4-6016-64ca-e887-e1f08ede3f60" testName="XDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3371ad3-089b-4490-9907-175e72dd69d1">
+    </UnitTestResult>
+    <UnitTestResult executionId="32f651be-8651-49d4-8973-69b6c0011c38" testId="18c0df62-9e71-531f-0839-9641f985ce05" testName="ComponentDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="32f651be-8651-49d4-8973-69b6c0011c38">
+    </UnitTestResult>
+    <UnitTestResult executionId="b4bcbe50-5def-4807-a8b0-bcc25a2b2d00" testId="1b30e23d-b371-e559-363a-b5d56ede01ff" testName="ModelNameTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b4bcbe50-5def-4807-a8b0-bcc25a2b2d00">
+    </UnitTestResult>
+    <UnitTestResult executionId="60e7579d-c14f-4a99-b7e6-6aad5a230619" testId="1d65620a-b474-a27f-19c2-672761107b81" testName="OutletDisplaySymbolIDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60e7579d-c14f-4a99-b7e6-6aad5a230619">
+    </UnitTestResult>
+    <UnitTestResult executionId="58648f50-e8bb-4a06-8c3e-f95f086bddd8" testId="1dd43818-7534-8c8a-155f-265c089bf3fe" testName="InletRow1Col1LocationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="58648f50-e8bb-4a06-8c3e-f95f086bddd8">
+    </UnitTestResult>
+    <UnitTestResult executionId="4ab3e062-e596-44ed-bf87-f6a9c06f7af2" testId="26a6f9cf-ce57-ec6e-485b-7271debaf27e" testName="InletVesselIDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4ab3e062-e596-44ed-bf87-f6a9c06f7af2">
+    </UnitTestResult>
+    <UnitTestResult executionId="0592171a-3f28-4955-b048-33bf2f01c9cc" testId="3107f13f-9a0f-48e7-6fc7-b5c5137b212e" testName="VesselIDTypeTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0592171a-3f28-4955-b048-33bf2f01c9cc">
+    </UnitTestResult>
+    <UnitTestResult executionId="11a47d94-a743-4e67-9093-a4db6fa19c51" testId="342ab28b-1731-c3f9-fc28-a2a8f9e95cf9" testName="TubeSheetNumberingTypeTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="11a47d94-a743-4e67-9093-a4db6fa19c51">
+    </UnitTestResult>
+    <UnitTestResult executionId="04de6902-3e23-4e79-9793-deaab5fd834f" testId="36391e30-c188-1acc-8ecc-1e01672d00a5" testName="IDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="04de6902-3e23-4e79-9793-deaab5fd834f">
+    </UnitTestResult>
+    <UnitTestResult executionId="a990b2af-5c3a-487a-82cb-17ead1b02c6c" testId="490fa47e-be49-c7f7-e688-1f808e7fcaaa" testName="UtilityDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a990b2af-5c3a-487a-82cb-17ead1b02c6c">
+    </UnitTestResult>
+    <UnitTestResult executionId="19276660-a33a-4045-9b30-c649a555f05d" testId="4947f739-deb8-db54-29ad-f143de8956b0" testName="PlantDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19276660-a33a-4045-9b30-c649a555f05d">
+    </UnitTestResult>
+    <UnitTestResult executionId="f97245ef-2e96-4467-b178-ae717a85c4b6" testId="498975fa-28ac-56ea-c148-0d358a0c6927" testName="ContractorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f97245ef-2e96-4467-b178-ae717a85c4b6">
+    </UnitTestResult>
+    <UnitTestResult executionId="c6228000-ddbc-49fa-a6f8-4914f78bff98" testId="4ca59c4a-1586-4df3-4c18-8aad9b220064" testName="group_outline_colorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c6228000-ddbc-49fa-a6f8-4914f78bff98">
+    </UnitTestResult>
+    <UnitTestResult executionId="f68bc35a-8ae5-4476-ab39-f6de36cdfb0a" testId="5092a366-4896-a1d3-4b30-9505f776942e" testName="ComponentNameTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f68bc35a-8ae5-4476-ab39-f6de36cdfb0a">
+    </UnitTestResult>
+    <UnitTestResult executionId="90340258-bacf-4906-b35c-a02e7c729c98" testId="57b9104c-3dd5-7ab0-0ce0-fa1c988b04b4" testName="OutletXTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90340258-bacf-4906-b35c-a02e7c729c98">
+    </UnitTestResult>
+    <UnitTestResult executionId="ca060cd7-01b2-4b19-be15-f2a593bc0cdb" testId="6c794108-9512-4cfe-399f-069beac41e67" testName="LegacyIDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca060cd7-01b2-4b19-be15-f2a593bc0cdb">
+    </UnitTestResult>
+    <UnitTestResult executionId="b5feb8b6-7871-4a86-8596-e0cafd3ba5a2" testId="77c02662-9d79-5d8c-2ce3-01f820b23fd3" testName="miscConstructorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b5feb8b6-7871-4a86-8596-e0cafd3ba5a2">
+    </UnitTestResult>
+    <UnitTestResult executionId="090c4ba0-0cb7-4acc-9c54-523f49bce008" testId="7937e4e8-872d-6b6c-9b61-34f1e84fe2dd" testName="grid_scaleTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="090c4ba0-0cb7-4acc-9c54-523f49bce008">
+    </UnitTestResult>
+    <UnitTestResult executionId="e93ee458-9b24-41ff-bf72-9eab5e320fe5" testId="7e4cf5a5-5b1c-0932-8559-35accf7c452d" testName="VesselInformationConstructorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e93ee458-9b24-41ff-bf72-9eab5e320fe5">
+    </UnitTestResult>
+    <UnitTestResult executionId="b8dabd8b-9bba-4a17-8b10-fd5ae3ebcb76" testId="85be2481-f02f-6177-a926-23d7d1e77482" testName="OutletCalNumberingTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8dabd8b-9bba-4a17-8b10-fd5ae3ebcb76">
+    </UnitTestResult>
+    <UnitTestResult executionId="88f21afc-0790-4745-92d5-f72e70105708" testId="86b705c7-9972-2979-5c9c-3e03d4230724" testName="UnitTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="88f21afc-0790-4745-92d5-f72e70105708">
+    </UnitTestResult>
+    <UnitTestResult executionId="87649267-0e43-48a4-86a8-18d20e79bebc" testId="8792450d-bd76-961c-f757-852e8d4d4052" testName="OutletYTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="87649267-0e43-48a4-86a8-18d20e79bebc">
+    </UnitTestResult>
+    <UnitTestResult executionId="2054e832-2011-470a-9e80-0866cd21888b" testId="88625e9d-086d-6f95-871a-ba00a3118136" testName="XLabelTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2054e832-2011-470a-9e80-0866cd21888b">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce2d2bb9-4258-4d3b-817e-94b6ce7d36c6" testId="8f58cb54-4ad6-c1b3-da03-dbae73442545" testName="YDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce2d2bb9-4258-4d3b-817e-94b6ce7d36c6">
+    </UnitTestResult>
+    <UnitTestResult executionId="1b4a04eb-9e69-492d-ba39-760cd924a769" testId="983e7fff-d653-565a-d54b-a93994949ed4" testName="foreground_colorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1b4a04eb-9e69-492d-ba39-760cd924a769">
+    </UnitTestResult>
+    <UnitTestResult executionId="1141381a-1525-402b-b50b-ebf257577873" testId="995bd025-5efd-2416-d859-789130a1bdb4" testName="InletCalNumberingTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1141381a-1525-402b-b50b-ebf257577873">
+    </UnitTestResult>
+    <UnitTestResult executionId="f6a70f58-3585-4e8b-8ba7-b476ee9e5e94" testId="a1a16247-5410-d687-ca1d-14a49f040f67" testName="IntletDisplaySymbolIDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6a70f58-3585-4e8b-8ba7-b476ee9e5e94">
+    </UnitTestResult>
+    <UnitTestResult executionId="2883efb2-5cdb-475f-9dd4-de27eaa74fb3" testId="a5c962c3-516d-a59e-ac49-d473361634e5" testName="TubeConstructorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2883efb2-5cdb-475f-9dd4-de27eaa74fb3">
+    </UnitTestResult>
+    <UnitTestResult executionId="f5c3911e-33a9-46c4-9f3b-965c4125b890" testId="ad85d900-8b15-e0db-270b-0fe6dc68b1e5" testName="InletXTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f5c3911e-33a9-46c4-9f3b-965c4125b890">
+    </UnitTestResult>
+    <UnitTestResult executionId="b1be34b0-c34c-4f28-b6ab-2a2a820e7f8e" testId="b169d9f8-48e9-c1ab-f1d0-4527e9150cd3" testName="InletChannelHeadTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1be34b0-c34c-4f28-b6ab-2a2a820e7f8e">
+    </UnitTestResult>
+    <UnitTestResult executionId="d8d50bd4-0908-4755-88eb-7cd8bae36da9" testId="b2057306-c5e9-1add-e7f7-af5dd9b426ff" testName="ModelDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d8d50bd4-0908-4755-88eb-7cd8bae36da9">
+    </UnitTestResult>
+    <UnitTestResult executionId="a23f8848-0878-4c36-8887-c8fddc66a743" testId="b2c71200-05d2-c464-d78a-06f6f0f9cb57" testName="YxXyNotationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a23f8848-0878-4c36-8887-c8fddc66a743">
+    </UnitTestResult>
+    <UnitTestResult executionId="c1950ece-3b63-4272-bc8f-f9307d84e752" testId="b6b9b077-2616-106e-0759-3bac9fb0a311" testName="SectionLabelTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1950ece-3b63-4272-bc8f-f9307d84e752">
+    </UnitTestResult>
+    <UnitTestResult executionId="cd751ef4-b1f1-4d75-a6bc-313a5b442e45" testId="c3da0222-7ce6-132e-b376-ad5fdce6bbe7" testName="InletYTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cd751ef4-b1f1-4d75-a6bc-313a5b442e45">
+    </UnitTestResult>
+    <UnitTestResult executionId="09f3366e-d4bc-4662-8763-cc47f1de7dcc" testId="ce4ae171-8b1c-e94a-6046-f6f7f8e80412" testName="grid_colorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="09f3366e-d4bc-4662-8763-cc47f1de7dcc">
+    </UnitTestResult>
+    <UnitTestResult executionId="8b88a0ca-f1c1-4038-bd35-95ddd9d822af" testId="ce9085de-45bf-256a-44f0-6cd789b25d2f" testName="MinimumTubeRadiusTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b88a0ca-f1c1-4038-bd35-95ddd9d822af">
+    </UnitTestResult>
+    <UnitTestResult executionId="346704ec-e9ab-4cc0-b1d2-642efd18dc4f" testId="da63952a-891e-c736-3ada-6df53f00898a" testName="SectionDesignationTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="346704ec-e9ab-4cc0-b1d2-642efd18dc4f">
+    </UnitTestResult>
+    <UnitTestResult executionId="8597ad4a-d473-421d-a821-1f8df1cd4945" testId="de393f97-7194-a95f-30b4-c65d3ce26f75" testName="OutletVesselIDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8597ad4a-d473-421d-a821-1f8df1cd4945">
+    </UnitTestResult>
+    <UnitTestResult executionId="712d816b-6c15-49f1-a996-65dfee577375" testId="e01e71af-91f5-cd9d-b9a2-e433f623a001" testName="UtilityNameTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="712d816b-6c15-49f1-a996-65dfee577375">
+    </UnitTestResult>
+    <UnitTestResult executionId="1e88ec6d-6ff2-477f-84f8-fd4ea2b7461c" testId="e20639a1-e3ac-5227-0fa6-529036098c15" testName="background_colorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e88ec6d-6ff2-477f-84f8-fd4ea2b7461c">
+    </UnitTestResult>
+    <UnitTestResult executionId="b7f28bf4-56e7-4d97-8fd9-b8c09db2c285" testId="ecc15bfd-60f9-5125-4547-4de1352adeee" testName="symbol_sizeTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7f28bf4-56e7-4d97-8fd9-b8c09db2c285">
+    </UnitTestResult>
+    <UnitTestResult executionId="666a26f4-3f76-4ace-b9da-af250267555f" testId="f06db92a-baa1-e523-c30b-12ff004e6373" testName="MaterialIDTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="666a26f4-3f76-4ace-b9da-af250267555f">
+    </UnitTestResult>
+    <UnitTestResult executionId="22ef6a77-2512-425d-ba90-ee2e07473fda" testId="f46dde03-01d9-ecfa-51fc-3b81caa02ca8" testName="YLabelTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22ef6a77-2512-425d-ba90-ee2e07473fda">
+    </UnitTestResult>
+    <UnitTestResult executionId="9fc66d01-1c75-48aa-aa74-a231545f8615" testId="f722bce2-18b8-5d04-bf89-e49deb2d591b" testName="BowlRadiusTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9fc66d01-1c75-48aa-aa74-a231545f8615">
+    </UnitTestResult>
+    <UnitTestResult executionId="dbc96f29-444b-4b43-b95d-b50264006b9e" testId="fd010e4f-ec11-356d-71a2-987599af96ee" testName="ToStringTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dbc96f29-444b-4b43-b95d-b50264006b9e">
+    </UnitTestResult>
+    <UnitTestResult executionId="80d5d34b-61d1-4a10-a1fb-214ced75f03e" testId="fdeca077-1731-5789-f6c7-97ee935d2199" testName="text_colorTest" computerName="CLPR9K5797" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="80d5d34b-61d1-4a10-a1fb-214ced75f03e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<misc extent_mode="NG3_MODE" report_sort_order="ENCODE1_ORDER" grid_type="HV_STRIKE_THROUGH" report_separator_lines="false" report_duplicate_encode="false" report_display_test_plan_info="true" tube_label_grid_type="NONE" >
+         <text_color>#2519fa</text_color>
+         <grid_color>#14a80a</grid_color>
+         <group_outline_color>#871199</group_outline_color>
+         <background_color>#090947</background_color>
+         <foreground_color>#ffffff</foreground_color>
+         <grid_scale>10</grid_scale>
+         <symbol_size>12</symbol_size>
+         <pixels_per_inch>18.76</pixels_per_inch>
+      </misc> 
