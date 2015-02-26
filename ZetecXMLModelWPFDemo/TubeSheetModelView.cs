@@ -38,7 +38,7 @@ namespace ZetecModelWPFDemo
                     tmv.InletY = tube.InletY;
                     tmv.ToolTipString = "R" + tube.YLabel + "C" + tube.XLabel;
                     tmv.SymbolSize = zm.MiscDrawingOptions.SymbolSize;
-                    tmv.TopPosition = (double)(tube.InletY * zm.MiscDrawingOptions.PixelsPerInch * ScaleFactor + tmv.SymbolSize / 2);
+                    tmv.TopPosition = DefaultTubeSheetDisplaySizeY - (double)(tube.InletY * zm.MiscDrawingOptions.PixelsPerInch * ScaleFactor + tmv.SymbolSize / 2);
                     tmv.LeftPosition = (double)(tube.InletX * zm.MiscDrawingOptions.PixelsPerInch * ScaleFactor - tmv.SymbolSize / 2);
 
                     if (tube.IntletDisplaySymbolID == 3)
