@@ -5,3 +5,10 @@ C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXML
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\obj\Debug\ZetecXMLModelsUnitTests.csprojResolveAssemblyReference.cache
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\obj\Debug\ZetecXMLModelsUnitTests.dll
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelsUnitTests\obj\Debug\ZetecXMLModelsUnitTests.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\bin\Debug\ZetecXMLModelsUnitTests.dll
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\bin\Debug\ZetecXMLModelsUnitTests.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\bin\Debug\ZetecXMLModels.dll
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\bin\Debug\ZetecXMLModels.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\obj\Debug\ZetecXMLModelsUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\obj\Debug\ZetecXMLModelsUnitTests.dll
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelsUnitTests\obj\Debug\ZetecXMLModelsUnitTests.pdb

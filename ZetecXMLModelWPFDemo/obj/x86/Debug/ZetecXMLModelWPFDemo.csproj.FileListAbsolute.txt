@@ -14,3 +14,19 @@ C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXML
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecXMLModelWPFDemo.csproj.GenerateResource.Cache
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.exe
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\bin\Debug\ZetecModelWPFDemo.exe
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\bin\Debug\ZetecModelWPFDemo.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\bin\Debug\ZetecXMLModels.dll
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\bin\Debug\ZetecXMLModels.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecXMLModelWPFDemo.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\TubeSheetView.baml
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\TubeSheetView.g.cs
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\App.g.cs
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo_MarkupCompile.cache
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.g.resources
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.Properties.Resources.resources
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecXMLModelWPFDemo.csproj.GenerateResource.Cache
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.exe
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.pdb

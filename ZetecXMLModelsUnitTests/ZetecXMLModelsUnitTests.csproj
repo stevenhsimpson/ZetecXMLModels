@@ -7,7 +7,7 @@
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{22397350-BBFD-401F-AECF-8E0E98003817}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ZetecXMLModelsUnitTests</RootNamespace>
     <AssemblyName>ZetecXMLModelsUnitTests</AssemblyName>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
