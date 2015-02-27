@@ -75,7 +75,10 @@
     </ApplicationDefinition>
     <Compile Include="CanvasAutoResize.cs" />
     <Compile Include="RelayCommand.cs" />
-    <Compile Include="TubeModelView.cs" />
+    <Compile Include="TubeView.xaml.cs">
+      <DependentUpon>TubeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TubeViewModel.cs" />
     <Compile Include="TubeSheetModelView.cs" />
     <Compile Include="TubeSheetView.xaml.cs">
       <DependentUpon>TubeSheetView.xaml</DependentUpon>
@@ -93,6 +96,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="TubeSheetView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TubeView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

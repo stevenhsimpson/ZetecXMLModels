@@ -1,0 +1,62 @@
+﻿<Window x:Class="ZetecModelWPFDemo.TubeView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TubeView" Height="475" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="0" >ID:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="0" Text="{Binding Path=ID}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="1">InletX:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="1" Text="{Binding Path=InletX}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="2">InletY:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="2" Text="{Binding Path=InletY}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="3">OutletX:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="3" Text="{Binding Path=OutletX}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="4">OutletY:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="4" Text="{Binding Path=OutletY}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="5">SymbolSize:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="5" Text="{Binding Path=SymbolSize}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="6">TopPosition:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="6" Text="{Binding Path=TopPosition}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="7">LeftPosition:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="7" Text="{Binding Path=LeftPosition}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="8">YLabel:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="8" Text="{Binding Path=YLabel}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="9">XLabel:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="9" Text="{Binding Path=XLabel}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="10">ToolTipString:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="10" Text="{Binding Path=ToolTipString}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="11">Stroke:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="11" Text="{Binding Path=Stroke}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="12">Fill:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="12" Text="{Binding Path=Fill}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="13">Selected:</TextBlock>
+        <TextBox Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="13" Text="{Binding Path=Selected}"/>
+        <TextBlock Padding="5" HorizontalAlignment="Left" Grid.Column="0" Grid.Row="14">Type:</TextBlock>
+        <ComboBox Name="TubeTypeCombo" Padding="5" HorizontalAlignment="Stretch" Grid.Column="1" Grid.Row="14" Text="{Binding Path=Type}"/>
+        <Button Padding="5" HorizontalAlignment="Center" Grid.ColumnSpan="2" Grid.Row="16" Content="OK" Click="OkButton_Click" />
+    </Grid>
+</Window>
+

@@ -8,7 +8,7 @@ namespace ZetecModelWPFDemo
 {
     public class TubeSheetModelView
     {
-        public ObservableCollection<TubeModelView> Tubes { get; set; }
+        public ObservableCollection<TubeViewModel> Tubes { get; set; }
         public int DefaultTubeSheetDisplaySizeY { get; set;}
         public int DefaultTubeSheetDisplaySizeX { get; set; }
         public decimal ScaleFactor { get; set; }
@@ -21,7 +21,7 @@ namespace ZetecModelWPFDemo
             DefaultTubeSheetDisplaySizeY = 800;
             ScaleFactor = 0.85M;
 
-            Tubes = new ObservableCollection<TubeModelView>();
+            Tubes = new ObservableCollection<TubeViewModel>();
             //read in the data...in real life we get a repository for this bit!
             ZetecXMLModels.ZetecModel zm = ZetecXMLModels.XMLModelReader.ReadZetecModel(path);
 
@@ -32,7 +32,7 @@ namespace ZetecModelWPFDemo
                 //go thru make a bunch of tubeviews
                 foreach (ZetecXMLModels.Tube tube in zm.Tubes)
                 {
-                    TubeModelView tmv = new TubeModelView();
+                    TubeViewModel tmv = new TubeViewModel(tube);
                     tmv.ID = tube.ID;
                     tmv.InletX = tube.InletX;
                     tmv.InletY = tube.InletY;
