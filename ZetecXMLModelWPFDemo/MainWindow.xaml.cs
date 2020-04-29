@@ -24,8 +24,9 @@ namespace ZetecModelWPFDemo
             InitializeComponent();
             TubeSheetModelView tsmv = new TubeSheetModelView("./BGA-33110-SG.xml");
             //Davis_Besse_OTSG.xml BGA-33110-SG.xml
-            TubeSheetView tsView = new TubeSheetView(tsmv);
-            tsView.Show();
+            //TubeSheetView tsView = new TubeSheetView(tsmv);
+            //tsView.Show();
+            this.TubeSheetView.DataContext = tsmv;
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXML
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelDemo\obj\x86\Debug\ZetecXMLModelDemo.csprojResolveAssemblyReference.cache
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelDemo\obj\x86\Debug\ZetecXMLModelDemo.exe
 C:\Users\SHSimpson\Documents\Visual Studio 2010\Projects\ZetecXMLModels\ZetecXMLModelDemo\obj\x86\Debug\ZetecXMLModelDemo.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\bin\Debug\ZetecXMLModelDemo.exe
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\bin\Debug\ZetecXMLModelDemo.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\bin\Debug\ZetecXMLModels.dll
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\bin\Debug\ZetecXMLModels.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\obj\x86\Debug\ZetecXMLModelDemo.exe
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\obj\x86\Debug\ZetecXMLModelDemo.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelDemo\obj\x86\Debug\ZetecXMLModelDemo.csprojResolveAssemblyReference.cache

@@ -19,6 +19,7 @@ namespace ZetecXMLModels
         #endregion
 
         #region Accessors
+        //This is a change we made to explore github!
         public int ID { get; set; }
         public int LegacyID { get; set; }
         public int GridX { get; set; }

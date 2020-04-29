@@ -16,11 +16,11 @@ namespace ZetecModelWPFDemo
     /// <summary>
     /// Interaction logic for TubeView.xaml
     /// </summary>
-    public partial class TubeView : Window
+    public partial class TubeEditView : Window
     {
         private readonly TubeViewModel _tvm;
 
-        public TubeView(TubeViewModel tvm)
+        public TubeEditView(TubeViewModel tvm)
         {
             InitializeComponent();
             _tvm = tvm;

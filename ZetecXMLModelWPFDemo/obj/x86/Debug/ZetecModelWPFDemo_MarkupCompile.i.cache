@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\App.xaml
-21142229080
+32051395657
 
-11-1734933503
+121792200317
 13-846528493
-MainWindow.xaml;TubeSheetView.xaml;
+MainWindow.xaml;TubeEditView.xaml;View\TubeSheetView.xaml;
 
-False
+True
 

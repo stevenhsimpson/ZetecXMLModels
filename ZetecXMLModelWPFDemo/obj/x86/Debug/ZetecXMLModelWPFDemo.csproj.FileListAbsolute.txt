@@ -20,9 +20,7 @@ C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\bin\Debug\Ze
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\bin\Debug\ZetecXMLModels.pdb
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecXMLModelWPFDemo.csprojResolveAssemblyReference.cache
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\MainWindow.baml
-C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\TubeSheetView.baml
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\MainWindow.g.cs
-C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\TubeSheetView.g.cs
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\App.g.cs
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo_MarkupCompile.cache
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.g.resources
@@ -30,3 +28,9 @@ C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debu
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecXMLModelWPFDemo.csproj.GenerateResource.Cache
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.exe
 C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo.pdb
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\View\TubeSheetView.baml
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\View\TubeSheetView.g.cs
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\ZetecModelWPFDemo_MarkupCompile.lref
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\TubeEditView.baml
+C:\Users\Steve\Documents\GitHub\ZetecXMLModels\ZetecXMLModelWPFDemo\obj\x86\Debug\TubeEditView.g.cs

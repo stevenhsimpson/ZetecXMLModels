@@ -308,7 +308,7 @@ namespace ZetecModelWPFDemo
              
             private void DeselectTube()
         {
-            TubeView tv = new TubeView(this);
+            TubeEditView tv = new TubeEditView(this);
             tv.ShowDialog();
         }
         
